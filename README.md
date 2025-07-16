@@ -1,1 +1,4 @@
 # disaster-app
+
+1.ADD YOUR MONGODB URL.
+2.ADD NEW API KEY 
